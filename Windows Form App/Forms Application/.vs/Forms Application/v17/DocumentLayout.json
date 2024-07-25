@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\classes\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\classes\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\classes\\models\\apparel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\classes\\models\\apparel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\classes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\classes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\classes\\models\\distributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\classes\\models\\distributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\classes\\apparel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\classes\\apparel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\classes\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\classes\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\classes\\appareltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\classes\\appareltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\classes\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\classes\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\classes\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\classes\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\enums\\appareltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\enums\\appareltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|c:\\users\\cugos\\onedrive\\documents\\github\\oc-warehouse-manager\\windows form app\\forms application\\forms application\\forms application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|solutionrelative:forms application\\forms application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{344B8E25-046B-4412-8C50-FC2D029475A8}|Forms Application\\Forms Application.csproj|C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\forms application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,71 +46,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Forms Application\\Classes\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Transaction.cs",
+              "RelativeToolTip": "Forms Application\\Classes\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:46:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Distributor.cs",
+              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Distributor.cs",
+              "RelativeDocumentMoniker": "Forms Application\\Classes\\Models\\Distributor.cs",
+              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Distributor.cs",
+              "RelativeToolTip": "Forms Application\\Classes\\Models\\Distributor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:43:23.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Enums\\TransactionType.cs",
+              "RelativeDocumentMoniker": "Forms Application\\Enums\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Enums\\TransactionType.cs",
+              "RelativeToolTip": "Forms Application\\Enums\\TransactionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:41:34.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Forms Application",
+              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Forms Application.csproj",
+              "RelativeDocumentMoniker": "Forms Application\\Forms Application.csproj",
+              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Forms Application.csproj",
+              "RelativeToolTip": "Forms Application\\Forms Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T19:40:33.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Location.cs",
-              "RelativeDocumentMoniker": "Forms Application\\Classes\\Location.cs",
-              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Location.cs",
-              "RelativeToolTip": "Forms Application\\Classes\\Location.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Forms Application\\Classes\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Location.cs",
+              "RelativeToolTip": "Forms Application\\Classes\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T19:20:01.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Box.cs",
-              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Box.cs",
-              "RelativeDocumentMoniker": "Forms Application\\Classes\\Box.cs",
-              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Box.cs",
-              "RelativeToolTip": "Forms Application\\Classes\\Box.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Box.cs",
+              "RelativeDocumentMoniker": "Forms Application\\Classes\\Models\\Box.cs",
+              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Box.cs",
+              "RelativeToolTip": "Forms Application\\Classes\\Models\\Box.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T19:10:41.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Apparel.cs",
-              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Apparel.cs",
-              "RelativeDocumentMoniker": "Forms Application\\Classes\\Apparel.cs",
-              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Apparel.cs",
-              "RelativeToolTip": "Forms Application\\Classes\\Apparel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Apparel.cs",
+              "RelativeDocumentMoniker": "Forms Application\\Classes\\Models\\Apparel.cs",
+              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\Models\\Apparel.cs",
+              "RelativeToolTip": "Forms Application\\Classes\\Models\\Apparel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwBQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T19:03:20.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ApparelType.cs",
-              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\ApparelType.cs",
-              "RelativeDocumentMoniker": "Forms Application\\Classes\\ApparelType.cs",
-              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Classes\\ApparelType.cs",
-              "RelativeToolTip": "Forms Application\\Classes\\ApparelType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Enums\\ApparelType.cs",
+              "RelativeDocumentMoniker": "Forms Application\\Enums\\ApparelType.cs",
+              "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Enums\\ApparelType.cs",
+              "RelativeToolTip": "Forms Application\\Enums\\ApparelType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T19:01:30.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Form1.cs",
               "RelativeDocumentMoniker": "Forms Application\\Form1.cs",
               "ToolTip": "C:\\Users\\cugos\\OneDrive\\Documents\\GitHub\\OC-Warehouse-Manager\\Windows Form App\\Forms Application\\Forms Application\\Form1.cs [Design]",
               "RelativeToolTip": "Forms Application\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T18:59:43.313Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-25T18:59:43.313Z"
             }
           ]
         }

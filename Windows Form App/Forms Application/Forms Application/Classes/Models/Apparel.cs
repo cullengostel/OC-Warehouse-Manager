@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Forms_Application.Enums;
 
-namespace Forms_Application.Classes
+namespace Forms_Application.Classes.Models
 {
     //Author:  Cullen Gostel
     //Version: 07/25/2024
@@ -17,6 +18,10 @@ namespace Forms_Application.Classes
         public string Style { get; set; } //Additional style info if needed
         public int Quantity { get; set; }
 
+        public Apparel()
+        {
+
+        }
         public Apparel(int itemNumber, ApparelType type, string color, string size, string style, int quantity)
         {
             ItemNumber = itemNumber;

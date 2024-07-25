@@ -1,4 +1,4 @@
-namespace Forms_Application
+namespace Forms_Application.Classes.Controllers
 {
     internal static class Program
     {
