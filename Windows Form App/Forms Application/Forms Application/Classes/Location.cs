@@ -8,8 +8,8 @@ namespace Forms_Application.Classes
 {
     public class Location
     {
-        int LocationID;
-        string LocationDescription;
+        public int LocationID { get; set; } //Unique ID
+        public string LocationDescription { get; set; }
         public Location(int locationID, string locationDescription)
         {
             LocationID = locationID;

@@ -9,15 +9,25 @@ namespace Forms_Application.Classes
 {
     public class Box
     {
-        int BoxID;
-        private int LocationID;
-        List<Apparel> Contents;
+        public int BoxID { get; set; } //Unique ID
+        public int LocationID { get; set; } //Corresponds to location
+        public List<Apparel> Contents { get; set; } //list of contents
 
         public Box(int boxID, int locationID, List<Apparel> contents)
         {
             BoxID = boxID;
             LocationID = locationID;
             Contents = contents;
+        }
+
+        public int GetTotalQuantity()
+        {
+            int total = 0;
+            foreach(Apparel a in Contents)
+            {
+                total += a.Quantity;
+            }
+            return total;
         }
     }
 }

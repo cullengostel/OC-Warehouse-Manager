@@ -10,12 +10,12 @@ namespace Forms_Application.Classes
     //Version: 07/25/2024
     public class Apparel
     {
-        int ItemNumber; //Unique ID
-        ApparelType Type; //See ApparelType.cs
-        string Color;
-        string Size;
-        string Style; //Additional style info if needed
-        int Quantity;
+        public int ItemNumber { get; set; } //Unique ID
+        public ApparelType Type { get; set; } //See ApparelType.cs
+        public string Color { get; set; }
+        public string Size { get; set; }
+        public string Style { get; set; } //Additional style info if needed
+        public int Quantity { get; set; }
 
         public Apparel(int itemNumber, ApparelType type, string color, string size, string style, int quantity)
         {
