@@ -5,8 +5,8 @@
     //Used by the Apparel class
     public enum ApparelType
     {
-        LongSleeveShirt,
-        ShortSleeveShirt,
+        LongSleeve,
+        ShortSleeve,
         PocketedShirt,
         TankTop,
         Hoodie,

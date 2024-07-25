@@ -2,9 +2,6 @@ namespace Forms_Application.Classes.Controllers
 {
     internal static class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
