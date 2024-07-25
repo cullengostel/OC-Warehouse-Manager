@@ -1,5 +1,6 @@
 ﻿namespace Forms_Application.Classes
 {
+    //Used by the Apparel class
     public enum ApparelType
     {
         LongSleeveShirt,
