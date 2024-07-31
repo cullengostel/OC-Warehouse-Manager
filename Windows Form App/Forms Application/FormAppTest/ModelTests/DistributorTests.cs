@@ -1,8 +1,10 @@
-﻿using Forms_Application.Classes.Models;
+﻿using Forms_Application.Classes.Controllers;
+using Forms_Application.Classes.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace FormAppTest.ModelTests
@@ -46,6 +48,20 @@ namespace FormAppTest.ModelTests
             Assert.AreEqual(newID, distributor.DistributorID);
             Assert.AreEqual(newName, distributor.Name);
             Assert.AreEqual(newContactInfo, distributor.ContactInfo);
+        }
+
+        [Test]
+        public void Controller_ShouldLoadList()
+        {
+            // Arrange
+            DistributorController dc = new();
+            Distributor distro1 = dc.GetDistributor(3);
+            int expectedID = 3;
+            string expectedName = "Distributor Three";
+            string expectedContact = "contact3@distributor.com";
+
+            // Assert
+            Assert.That(expectedName, Is.EqualTo(distro1.Name));
         }
     }
 }
