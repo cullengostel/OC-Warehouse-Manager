@@ -18,8 +18,6 @@ namespace Forms_Application.Classes.Models
         public int QuantityChange { get; set; }
         public DateTime TransactionTime { get; set; }
         public TransactionType TransactionType { get; set; } // Enum for TransactionType
-
-        public Transaction() { }
         public Transaction(int transactionID, int boxID, int apparelID, int quantityChange, DateTime transactionTime, TransactionType transactionType)
         {
             TransactionID = transactionID;

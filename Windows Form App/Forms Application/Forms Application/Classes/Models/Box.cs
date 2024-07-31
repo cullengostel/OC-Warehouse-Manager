@@ -16,10 +16,6 @@ namespace Forms_Application.Classes.Models
         public int LocationID { get; set; } //Corresponds to location
         public List<Apparel> Contents { get; set; } //list of contents
 
-        public Box()
-        {
-
-        }
         public Box(int boxID, int locationID, List<Apparel> contents)
         {
             BoxID = boxID;

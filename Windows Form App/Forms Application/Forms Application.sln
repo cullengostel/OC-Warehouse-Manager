@@ -5,7 +5,10 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forms Application", "Forms Application\Forms Application.csproj", "{344B8E25-046B-4412-8C50-FC2D029475A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormAppTest", "FormAppTest\FormAppTest.csproj", "{4E7FBF49-7DE1-47C0-823D-19F56CD8FD55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormAppTest", "FormAppTest\FormAppTest.csproj", "{4E7FBF49-7DE1-47C0-823D-19F56CD8FD55}"
+	ProjectSection(ProjectDependencies) = postProject
+		{344B8E25-046B-4412-8C50-FC2D029475A8} = {344B8E25-046B-4412-8C50-FC2D029475A8}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

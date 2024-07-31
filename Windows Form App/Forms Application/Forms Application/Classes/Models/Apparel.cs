@@ -18,10 +18,7 @@ namespace Forms_Application.Classes.Models
         public string Style { get; set; } //Additional style info if needed
         public int Quantity { get; set; }
 
-        public Apparel()
-        {
-
-        }
+        
         public Apparel(int itemNumber, ApparelType type, string color, string size, string style, int quantity)
         {
             ItemNumber = itemNumber;

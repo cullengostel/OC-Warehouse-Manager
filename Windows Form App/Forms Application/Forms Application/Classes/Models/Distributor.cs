@@ -14,11 +14,6 @@ namespace Forms_Application.Classes.Models
         public int DistributorID; //Unique ID
         public string Name;
         public string ContactInfo; //Just a string representation of contact info, not particularly formatted
-
-        public Distributor()
-        {
-
-        }
         public Distributor(int id, string name, string info)
         {
             DistributorID = id;
