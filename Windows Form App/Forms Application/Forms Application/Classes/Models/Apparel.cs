@@ -11,7 +11,7 @@ namespace Forms_Application.Classes.Models
     //Version: 07/25/2024
     public class Apparel
     {
-        public int ItemNumber { get; set; } //Unique ID
+        public int ItemID { get; set; } //Unique ID
         public ApparelType Type { get; set; } //See ApparelType.cs
         public string Color { get; set; }
         public string Size { get; set; }
@@ -21,7 +21,7 @@ namespace Forms_Application.Classes.Models
         
         public Apparel(int itemNumber, ApparelType type, string color, string size, string style, int quantity)
         {
-            ItemNumber = itemNumber;
+            ItemID = itemNumber;
             Type = type;
             Color = color;
             Size = size;

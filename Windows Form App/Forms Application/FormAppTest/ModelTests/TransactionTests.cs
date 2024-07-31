@@ -20,7 +20,7 @@ namespace FormAppTest.ModelTests
             int expectedApparelID = 202;
             int expectedQuantityChange = 5;
             DateTime expectedTransactionTime = DateTime.Now;
-            TransactionType expectedTransactionType = TransactionType.ADD; // Assuming this is one of the enum values
+            TransactionType expectedTransactionType = TransactionType.ADD; 
 
             // Act
             Transaction transaction = new Transaction(expectedTransactionID, expectedBoxID, expectedApparelID, expectedQuantityChange, expectedTransactionTime, expectedTransactionType);
@@ -45,7 +45,7 @@ namespace FormAppTest.ModelTests
             int newApparelID = 203;
             int newQuantityChange = -3;
             DateTime newTransactionTime = DateTime.Now.AddMinutes(10);
-            TransactionType newTransactionType = TransactionType.REMOVE; // Assuming this is one of the enum values
+            TransactionType newTransactionType = TransactionType.REMOVE; 
 
             // Act
             transaction.TransactionID = newTransactionID;

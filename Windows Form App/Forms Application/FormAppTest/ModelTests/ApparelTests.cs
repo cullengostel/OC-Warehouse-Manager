@@ -28,7 +28,7 @@ namespace FormAppTest.ModelTests
             Apparel apparel = new(expectedItemNumber, expectedType, expectedColor, expectedSize, expectedStyle, expectedQuantity);
 
             // Assert
-            Assert.That(apparel.ItemNumber, Is.EqualTo(expectedItemNumber));
+            Assert.That(apparel.ItemID, Is.EqualTo(expectedItemNumber));
             Assert.That(apparel.Type, Is.EqualTo(expectedType));
             Assert.That(apparel.Color, Is.EqualTo(expectedColor));
             Assert.That(apparel.Size, Is.EqualTo(expectedSize));
@@ -50,7 +50,7 @@ namespace FormAppTest.ModelTests
             int newQuantity = 20;
 
             // Act
-            apparel.ItemNumber = newItemNumber;
+            apparel.ItemID = newItemNumber;
             apparel.Type = newType;
             apparel.Color = newColor;
             apparel.Size = newSize;
@@ -58,7 +58,7 @@ namespace FormAppTest.ModelTests
             apparel.Quantity = newQuantity;
 
             // Assert
-            Assert.That(apparel.ItemNumber, Is.EqualTo(newItemNumber));
+            Assert.That(apparel.ItemID, Is.EqualTo(newItemNumber));
             Assert.That(apparel.Type, Is.EqualTo(newType));
             Assert.That(apparel.Color, Is.EqualTo(newColor));
             Assert.That(apparel.Size, Is.EqualTo(newSize));
