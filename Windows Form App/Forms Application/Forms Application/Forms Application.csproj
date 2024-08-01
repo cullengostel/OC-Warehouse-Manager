@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Ado" Version="1.1.1" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.7" />
   </ItemGroup>
 
 </Project>

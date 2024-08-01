@@ -10,7 +10,7 @@ namespace Forms_Application.Classes.Controllers
     {
         public static void Main()
         {
-
+            DistributorController dc = new DistributorController();
         }
     }
 }

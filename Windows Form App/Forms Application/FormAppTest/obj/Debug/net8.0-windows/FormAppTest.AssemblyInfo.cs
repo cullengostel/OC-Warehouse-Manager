@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormAppTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c7ea34d47b09e712e30391ecc38adf92c172bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a122549a5d4523e0a9be76057683bafb7a9d83")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormAppTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormAppTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

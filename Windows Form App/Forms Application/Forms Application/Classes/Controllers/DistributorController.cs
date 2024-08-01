@@ -5,7 +5,7 @@ using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.SqlClient;
+using Microsoft.Data.Sqlite;
 
 namespace Forms_Application.Classes.Controllers
 {
@@ -42,11 +42,11 @@ namespace Forms_Application.Classes.Controllers
             return null;
         }
 
-        public List<Distributor> GetAllDistributors()
+        private List<Distributor> GetAllDistributors()
         {
             List<Distributor> distributors = new();
-
-            using (SqlConnection connection = new(DatabaseController.ConnectionString)) // Use SQLiteConnection for SQLite
+            string connectionString = ConfigurationManager.ConnectionStrings["WarehouseDatabase"].ConnectionString
+            using (SqlConnection connection = new(connectionString)) // Use SQLiteConnection for SQLite
             {
                 string query = "SELECT DistributorID, Name, ContactInfo FROM Distributor";
                 SqlCommand command = new SqlCommand(query, connection); // Use SQLiteCommand for SQLite

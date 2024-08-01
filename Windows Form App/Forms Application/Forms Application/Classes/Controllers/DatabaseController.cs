@@ -10,6 +10,6 @@ namespace Forms_Application.Classes.Controllers
 {
     internal class DatabaseController
     {
-        public static string ConnectionString = ConfigurationManager.ConnectionStrings["WarehouseDatabase"].ConnectionString;
+        //public static string ConnectionString = ConfigurationManager.ConnectionStrings["WarehouseDatabase"].ConnectionString;
     }
 }
