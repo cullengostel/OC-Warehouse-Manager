@@ -11,9 +11,9 @@ namespace Forms_Application.Classes.Models
     //Distributor of apparel
     public class Distributor
     {
-        public int DistributorID; //Unique ID
-        public string Name;
-        public string ContactInfo; //Just a string representation of contact info, not particularly formatted
+        internal int DistributorID; //Unique ID
+        internal string Name;
+        internal string ContactInfo; //Just a string representation of contact info, not particularly formatted
         public Distributor(int id, string name, string info)
         {
             DistributorID = id;
@@ -21,5 +21,9 @@ namespace Forms_Application.Classes.Models
             ContactInfo = info;
         }
 
+        public override string ToString()
+        {
+            return $"Distributor ID: {DistributorID}, Name: {Name}, Contact: {ContactInfo}";
+        }
     }
 }

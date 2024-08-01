@@ -6,21 +6,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Data.Sqlite;
+using System.Diagnostics;
 
 namespace Forms_Application.Classes.Controllers
 {
     public class DistributorController
     {
-        private List<Distributor> DistributorList = new();
+        private List<Distributor> DistributorsList = new();
         
         public DistributorController()
         {
-            DistributorList = GetAllDistributors();
+            DistributorsList = GetAllDistributors();
         }
 
         public Distributor GetDistributor(String name)
         {
-            foreach(Distributor d in DistributorList)
+            foreach(Distributor d in DistributorsList)
             {
                 if (d.Name.Equals(name))
                 {
@@ -32,7 +33,7 @@ namespace Forms_Application.Classes.Controllers
 
         public Distributor GetDistributor(int id)
         {
-            foreach (Distributor d in DistributorList)
+            foreach (Distributor d in DistributorsList)
             {
                 if (d.DistributorID == id)
                 {
@@ -46,15 +47,15 @@ namespace Forms_Application.Classes.Controllers
         {
             List<Distributor> distributors = new();
             string connectionString = ConfigurationManager.ConnectionStrings["WarehouseDatabase"].ConnectionString;
-            using (SQLiteConnection connection = new(connectionString)) // Use SQLiteConnection for SQLite
+            using (SqliteConnection connection = new(connectionString)) 
             {
-                string query = "SELECT DistributorID, Name, ContactInfo FROM Distributor";
-                SQLiteCommand command = new SQLiteCommand(query, connection); // Use SQLiteCommand for SQLite
+                string query = "SELECT DistributorID, Name, ContactInfo FROM Distributors";
+                var command = new SqliteCommand(query, connection); 
 
                 try
                 {
                     connection.Open();
-                    using (SqlLiteDataReader reader = command.ExecuteReader()) // Use SQLiteDataReader for SQLite
+                    using (var reader = command.ExecuteReader()) 
                     {
                         while (reader.Read())
                         {
@@ -68,17 +69,25 @@ namespace Forms_Application.Classes.Controllers
                         }
                     }
                 }
-                catch (SqlLiteException ex) // Catch SQL exceptions
+                catch (SqliteException ex) 
                 {
                     Console.WriteLine($"SQL Error: {ex.Message}");
                 }
-                catch (Exception ex) // Catch general exceptions
+                catch (Exception ex) 
                 {
                     Console.WriteLine($"Error: {ex.Message}");
                 }
             }
 
             return distributors;
+        }
+
+        public void Debug_LogAllDistributors()
+        {
+            foreach(Distributor d in DistributorsList)
+            {
+                Debug.WriteLine(d.ToString());
+            }
         }
     }
 }
