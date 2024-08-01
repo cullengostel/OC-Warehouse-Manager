@@ -11,7 +11,7 @@ namespace Forms_Application.Classes.Controllers
 {
     public class DistributorController
     {
-        public List<Distributor> DistributorList = new();
+        private List<Distributor> DistributorList = new();
         
         public DistributorController()
         {
@@ -45,16 +45,16 @@ namespace Forms_Application.Classes.Controllers
         private List<Distributor> GetAllDistributors()
         {
             List<Distributor> distributors = new();
-            string connectionString = ConfigurationManager.ConnectionStrings["WarehouseDatabase"].ConnectionString
-            using (SqlConnection connection = new(connectionString)) // Use SQLiteConnection for SQLite
+            string connectionString = ConfigurationManager.ConnectionStrings["WarehouseDatabase"].ConnectionString;
+            using (SQLiteConnection connection = new(connectionString)) // Use SQLiteConnection for SQLite
             {
                 string query = "SELECT DistributorID, Name, ContactInfo FROM Distributor";
-                SqlCommand command = new SqlCommand(query, connection); // Use SQLiteCommand for SQLite
+                SQLiteCommand command = new SQLiteCommand(query, connection); // Use SQLiteCommand for SQLite
 
                 try
                 {
                     connection.Open();
-                    using (SqlDataReader reader = command.ExecuteReader()) // Use SQLiteDataReader for SQLite
+                    using (SqlLiteDataReader reader = command.ExecuteReader()) // Use SQLiteDataReader for SQLite
                     {
                         while (reader.Read())
                         {
@@ -68,7 +68,7 @@ namespace Forms_Application.Classes.Controllers
                         }
                     }
                 }
-                catch (SqlException ex) // Catch SQL exceptions
+                catch (SqlLiteException ex) // Catch SQL exceptions
                 {
                     Console.WriteLine($"SQL Error: {ex.Message}");
                 }

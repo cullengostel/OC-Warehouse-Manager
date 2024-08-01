@@ -1,8 +1,4 @@
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Forms Application.exe
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Forms Application.deps.json
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Forms Application.runtimeconfig.json
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Forms Application.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Forms Application.pdb
+C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.csproj.AssemblyReference.cache
 C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms_Application.Form1.resources
 C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.csproj.GenerateResource.cache
 C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,25 +6,3 @@ C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\F
 C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.AssemblyInfo.cs
 C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.csproj.CoreCompileInputs.cache
 C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.sourcelink.json
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\refint\Forms Application.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.pdb
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.genruntimeconfig.cache
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\ref\Forms Application.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Application.csproj.AssemblyReference.cache
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Forms Application.dll.config
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Ado.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\runtimes\win7-x64\native\sni.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\runtimes\win7-x86\native\sni.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
-C:\Users\cugos\OneDrive\Documents\GitHub\OC-Warehouse-Manager\Windows Form App\Forms Application\Forms Application\obj\Debug\net8.0-windows\Forms Ap.102E79D3.Up2Date
