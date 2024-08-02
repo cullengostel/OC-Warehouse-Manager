@@ -12,11 +12,11 @@ namespace Forms_Application.Classes.Models
     public class Location
     {
         public int LocationID { get; set; } //Unique ID
-        public string LocationDescription { get; set; }
-        public Location(int locationID, string locationDescription)
+        public string Description { get; set; }
+        public Location(int locationID, string description)
         {
             LocationID = locationID;
-            LocationDescription = locationDescription;
+            Description = description;
         }
     }
 }

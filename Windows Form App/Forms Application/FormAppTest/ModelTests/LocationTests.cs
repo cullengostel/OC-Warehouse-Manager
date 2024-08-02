@@ -21,8 +21,8 @@ namespace FormAppTest.ModelTests
             Location location = new Location(expectedLocationID, expectedLocationDescription);
 
             // Assert
-            Assert.AreEqual(expectedLocationID, location.LocationID);
-            Assert.AreEqual(expectedLocationDescription, location.LocationDescription);
+            Assert.That(expectedLocationID, Is.EqualTo(location.LocationID));
+            Assert.That(expectedLocationDescription, Is.EqualTo(location.Description));
         }
 
         [Test]
@@ -36,11 +36,11 @@ namespace FormAppTest.ModelTests
 
             // Act
             location.LocationID = newLocationID;
-            location.LocationDescription = newLocationDescription;
+            location.Description = newLocationDescription;
 
             // Assert
             Assert.AreEqual(newLocationID, location.LocationID);
-            Assert.AreEqual(newLocationDescription, location.LocationDescription);
+            Assert.AreEqual(newLocationDescription, location.Description);
         }
     }
 }
